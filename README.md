@@ -28,6 +28,7 @@ I added the information about hole coordinates for the front panel in the folder
 If you want to use the Gerber files for having PCB manufactured, please note the following information about components used.
 
 - There is a number of SMD 0.1uF capacitors with the package size 1608.
+- One NPN transistor used in the built is the MMBT3904, a SMD version of the 2N3904.
 - In order to save space, I am always using small size resistors with values up to 1M, about 3mm length, which are about half the size of usually used resistors.
 - On the control board, you will find electrolytic capacitors with a rectangle next to them. Since these capacitors are too tall for standing upright on the board with the main board on top of it, those capacitors need to be mounted in a rectangular position. The rectangle shows the position for each bent-over capacitor.
 
