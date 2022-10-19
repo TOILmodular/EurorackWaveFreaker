@@ -30,3 +30,19 @@ If you want to use the Gerber files for having PCB manufactured, please note the
 - There is a number of SMD 0.1uF capacitors with the package size 1608.
 - In order to save space, I am always using small size resistors with values up to 1M, about 3mm length, which are about half the size of usually used resistors.
 - On the control board, you will find electrolytic capacitors with a rectangle next to them. Since these capacitors are too tall for standing upright on the board with the main board on top of it, those capacitors need to be mounted in a rectangular position. The rectangle shows the position for each bent-over capacitor.
+
+![WaveFreaker](https://user-images.githubusercontent.com/97026614/196824804-af77b0a8-b712-40ef-9e81-32e5e2864ccc.jpeg)
+
+![WaveFreakerFront](https://user-images.githubusercontent.com/97026614/196824841-a6f6eb17-96d8-45be-8816-dc57368cfec6.jpeg)
+
+![WaveFreakerSide](https://user-images.githubusercontent.com/97026614/196824897-06b14745-d688-454a-bd55-1fa34c149f8b.jpeg)
+
+![WaveFreakerBack](https://user-images.githubusercontent.com/97026614/196824923-6b84e06e-5777-4ddf-9c54-c3c271998109.jpeg)
+
+<img width="374" alt="PCB_MainFront" src="https://user-images.githubusercontent.com/97026614/196825757-bca84748-d627-4e97-ac2c-e567fcc7ed00.png">
+
+<img width="374" alt="PCB_MainBack" src="https://user-images.githubusercontent.com/97026614/196825792-46e12dd5-2b23-42a9-bfc6-9df340f9e28c.png">
+
+<img width="376" alt="PCB_CtrlFront" src="https://user-images.githubusercontent.com/97026614/196825819-9fb4e846-abb8-4a90-b5a3-e87b9a9848fd.png">
+
+<img width="376" alt="PCB_CtrlBack" src="https://user-images.githubusercontent.com/97026614/196825848-ed629668-8dae-4594-af02-d5eb70f20704.png">
