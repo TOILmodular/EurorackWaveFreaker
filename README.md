@@ -1,6 +1,6 @@
 # EurorackWaveFreaker
 ## General
-A Wave Folder Eurorack module, based on the design from Music From Outer Space.
+A Wavefolder Eurorack module, based on the design from Music From Outer Space.
 The module contains two folding modes, a step-shape option, and two sub-oscillators (one and two octaves).
 
 ## Module Built and PCBs
