@@ -24,6 +24,16 @@ If you want to know about my DIY building process, take a look at those two YouT
 ## Panel Layout
 I added the information about hole coordinates for the front panel in the folder PanelLayout, refering to the component layout in the Gerber files. The layout is the same for both versions.
 
+## Calibration
+There are two trimmers on the main PCB for a simple calibration process. You will need a multimeter for measuring voltage at three check points and adjusting the trimmers. You find the trimmers lablled "HIGH" and "LOW" and the check points labelled "BIAS TRIM" and "HIGH-REF-LOW-GND" at the left side of the main PCB (and in the schematic, if you are building your own PCBs).
+
+The procedure is the following (IMPORTANT: first set trimmer HIGH, then trimmer LOW):
+1. Measure the voltage between check points REF and GND.
+2. Measure the voltage between checkpoints HIGH and GND.
+3. Adjust the trimmer HIGH, until the voltage at checkpoint HIGH is 3V higher than the one at check point REF.
+4. Measure the voltage between checkpoints LOW and GND.
+5. Adjust the trimmer LOW, until the voltage at checkpoint HIGH is 3V lower than the one at check point REF.
+
 ## Additional Information about specific Components
 If you want to use the Gerber files for having PCB manufactured, please note the following information about components used.
 
@@ -40,7 +50,7 @@ If you want to use the Gerber files for having PCB manufactured, please note the
 
 ![WaveFreakerBack](https://user-images.githubusercontent.com/97026614/196824923-6b84e06e-5777-4ddf-9c54-c3c271998109.jpeg)
 
-<img width="374" alt="PCB_MainFront" src="https://user-images.githubusercontent.com/97026614/196825757-bca84748-d627-4e97-ac2c-e567fcc7ed00.png">
+<img width="374" alt="PCB_MainFront" src="https://user-images.githubusercontent.com/97026614/197115451-5e133072-26d9-4f4a-a7b6-3c1d0885b7c4.png">
 
 <img width="374" alt="PCB_MainBack" src="https://user-images.githubusercontent.com/97026614/196825792-46e12dd5-2b23-42a9-bfc6-9df340f9e28c.png">
 
