@@ -3,6 +3,8 @@
 A Wavefolder Eurorack module, based on the design from Music From Outer Space.
 The module contains two folding modes, a step-shape option, and two sub-oscillators (one and two octaves).
 
+You can check this [Youtube video](https://youtu.be/8ZWv8SXo3Ds) to see the module in action.
+
 ## Module Built and PCBs
 If you want to build the module yourself, I uploaded the schematic, the BOM and the Gerber files for the PCBs.
 
