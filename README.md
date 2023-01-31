@@ -24,7 +24,7 @@ If you want to know about my DIY building process, take a look at those two YouT
 - [Eurorack Module Synth - Building an Electric Druid Wavetable Oscillator Module](https://youtu.be/ECpdo4HfqLg)
 
 ## Panel Layout
-I added the information about hole coordinates for the front panel in the folder PanelLayout, refering to the component layout in the Gerber files. The layout is the same for both versions.
+I added the information about hole coordinates for the front panel in the folder PanelLayout, referring to the component layout in the Gerber files. The layout is the same for both versions.
 
 ## Calibration
 There are two trimmers on the main PCB for a simple calibration process. You will need a multimeter for measuring voltage at three check points and adjusting the trimmers. You find the trimmers lablled "HIGH" and "LOW" and the check points labelled "BIAS TRIM" and "HIGH-REF-LOW-GND" at the left side of the main PCB (and in the schematic, if you are building your own PCBs).
